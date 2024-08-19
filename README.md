@@ -1,1 +1,1 @@
-# CatalogHackathon2
+This quiz model is designed for educational purposes, where students are tested on their knowledge of Indian states and their respective capitals. The application presents students with the name of a state, and they must choose the correct capital from four multiple-choice options.
